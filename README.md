@@ -1,1 +1,1 @@
-# panda-commerce-bootstrap
+# vrcty-foot-mart

@@ -1,0 +1,102 @@
+ body {
+
+     background-image: url(loginbackground.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+
+
+ }
+
+ .container {}
+
+ .Login {
+     background: rgba(22, 8, 1, 0.719);
+     height: 350px;
+     width: 280px;
+
+     transform: translate(60%, 0%);
+     box-sizing: border-box;
+     border: 1px solid;
+     border-color: red;
+     border-radius: 20px;
+     padding: 31px 65px;
+ }
+
+ h2 {
+     color: white;
+     background-color: #924009;
+     width: 145px;
+     height: 32px;
+     font-size: 25px;
+     text-align: center;
+     border-radius: 13px;
+ }
+
+ .user_name {
+     margin: 0px;
+     padding: 0px;
+     color: white;
+ }
+
+ .Password {
+     margin: 0px;
+     padding: 0px;
+     color: white;
+ }
+
+ .Login input {
+     width: 150px;
+     margin-bottom: 20px;
+     border-radius: 3px;
+     color: white;
+
+ }
+
+ .Login input[type="text"],
+ [type="Password"] {
+
+     border: none;
+     border-bottom: 2px solid;
+     outline: none;
+     border-color: rgb(245, 240, 240);
+     background: transparent;
+     font-size: 15px;
+     height: 37px;
+     width: 150px;
+ }
+
+ .Login button {
+
+     margin-left: 40px;
+     height: 22px;
+     width: 60px;
+     border: none;
+     outline: none;
+     border-radius: 3px;
+ }
+
+ .Login button a {
+     text-decoration: none;
+     font-size: 14px;
+
+ }
+
+
+
+ .Registration {
+     background-color: darkslategrey;
+     width: 120px;
+     height: 20px;
+     text-align: center;
+     border-radius: 3px;
+     border: 1px solid;
+     border: none;
+     margin-left: 12px;
+     padding: 2px;
+ }
+
+ .Registration a {
+
+     color: rgba(247, 55, 12, 0.96);
+     text-decoration: none;
+ }
